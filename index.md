@@ -2,6 +2,4 @@
 
 <h2> Add content</h2>
 
-<p>Description of the course</p>
-
-<p>hotfix correct link</p>
+<h1>Second Course</h1>
